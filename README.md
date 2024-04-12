@@ -1,6 +1,5 @@
 # 💫 About Me:
 🖥️ FullStack Developer: React, ReactNative, Node;<br>💼 Currently working as FullStack Developer<br>🎓 Studying Systems Analysis and Development
-[![📲Portfolio](https://gustavomaia.vercel.app/portfolio)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ms-gustavo/) 
