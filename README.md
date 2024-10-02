@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ FullStack Developer: React, ReactNative, Node;<br>💼 Currently working as FullStack Developer<br>🎓 Studying Systems Analysis and Development
+🖥️ FullStack Developer: React, ReactNative, Node;<br>💼Recently worked as a Junior Fullstack Developer and am currently interning as IT Support<br>🎓 Studying Systems Analysis and Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ms-gustavo/) 
